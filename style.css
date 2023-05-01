@@ -7,8 +7,9 @@
     font-size: 45px;
 }
 
-section {
+.First-Section {
     display: flex;
+    margin-bottom: 175px;
 }
 
 .first-Div {
@@ -38,7 +39,19 @@ section {
     font-style: italic;
     font-weight: 800;
     color: whitesmoke;
+}
 
+.shadow-desing {
+    width: 33.99%;
+    box-shadow: 20px 20px 40px rgb(145, 34, 34);
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 25px;
+    border-radius: 20px;
 
+}
 
+.side-bar {
+    margin-left: 10%;
+    margin-right: 10%;
 }
