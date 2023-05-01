@@ -1,0 +1,44 @@
+.Orange {
+    color: orange;
+}
+
+.focus {
+
+    font-size: 45px;
+}
+
+section {
+    display: flex;
+}
+
+.first-Div {
+    width: 50%;
+    margin-left: 20px;
+}
+
+.first-Div img {
+    width: 55%;
+    margin-left: 75px;
+}
+
+.vl {
+    border-left: 4px solid olive;
+    height: 85px;
+    margin-top: 106px;
+    position: absolute;
+    left: 28px;
+
+}
+
+.Link-botton {
+    text-decoration: none;
+    background-image: linear-gradient(red, salmon);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-style: italic;
+    font-weight: 800;
+    color: whitesmoke;
+
+
+
+}
