@@ -1,0 +1,17 @@
+<section>
+
+        <div style="display: flex; margin-left: 10%;">
+            <div><img style=" width: 80%;" src="images/pictures/coding.png" alt=""></div>
+            <div style="margin-right: 10%;">
+                <h1 style="font-size: 45px;">Develop <br>Without Limits</h1>
+                <p style="font-size:20px;">
+                    Lorem ipsum dolor sit amet, usu cu esse possit referrentur, at eam falli deterruisset. No duo populo
+                    animal noluisse, enim deterruisset eos et. An mundi noster pri, ea eos quas expetendis scripserit,
+                    affert gubergren dissentias et cum.
+                </p>
+                <a class="Link-botton" href="https://obayed324.github.io/My-Bio-Data/">Read
+                    the Documentation</a>
+            </div>
+        </div>
+
+    </section>

@@ -55,3 +55,13 @@
     margin-left: 10%;
     margin-right: 10%;
 }
+
+.Background-for {
+
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: 5% 20%;
+
+
+}
