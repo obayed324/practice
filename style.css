@@ -9,7 +9,7 @@
 
 .First-Section {
     display: flex;
-    margin-bottom: 175px;
+    margin-bottom: 150px;
 }
 
 .first-Div {
@@ -64,4 +64,29 @@
     background-position: 5% 20%;
 
 
+}
+
+.Down-Background {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: 92% 75%;
+}
+
+.backGround {
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat, repeat;
+    background-size: 8%;
+    background-position: 17% 12%;
+}
+
+.backgroundTwo {
+    background-image: url(images/shapes/obayed.png);
+    background-repeat: no-repeat, repeat;
+    background-size: 5%;
+    background-position: 17% 99%;
+}
+
+body {
+    margin: 0;
 }
